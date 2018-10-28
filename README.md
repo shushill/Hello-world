@@ -6,3 +6,5 @@ This is my second commit in github.
 Trying to explore git commands.
 This is my third commit. 
 !! 
+I think git commands are really awesome and I am playing with it.
+
