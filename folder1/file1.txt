@@ -1,4 +1,1 @@
 Hi git, I am just trying new git commands. Well lets see if it is useful in my daily wor or not :P
-
-
-Hi There how are you?
